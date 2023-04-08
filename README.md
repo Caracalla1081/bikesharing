@@ -24,7 +24,7 @@ After a recent trip to New York City, I and my friend Kate returned home to Des 
 - The majority of trips are under an hour long, more specifically under thirty minutes.
 
 ### User Trips by Weekday by Gender
-![User Trips by Weekday, by Gender](https://github.com/Caracalla1081/bikesharing/blob/352ca261bf84e4129e2651075f21d1f04e72832f/Images/User%20Trips%20by%20Weekday%20by%20Gender.png)
+![User Trips by Weekday, by Gender](https://github.com/Caracalla1081/bikesharing/blob/81d5a3d4b7259a8404d57464a7aaef8030c61606/Images/User%20Trips%20by%20Weekday%20by%20Gender.png)
 - Overall most users of the service are "subscribers"
 - "Customers" utilize the service the most on weekend, followed by Friday and Thursday
 - Male "subscribers" utilize the bikes the most on Thursdays, then pretty equally over the remaining days; with the exceptions of Sunday and Wednesday.
