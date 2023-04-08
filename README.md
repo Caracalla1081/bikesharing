@@ -12,7 +12,7 @@ After a recent trip to New York City, I and my friend Kate returned home to Des 
 - The highest count of trip ends, by longitude and longitude, are around the mid-town, pier areas, and Uptown/Central Park areas of New York City.
 
 ### User Trips by Weekday, per Hour
-![User Trips by Weekday, per Hour](https://github.com/Caracalla1081/bikesharing/blob/352ca261bf84e4129e2651075f21d1f04e72832f/Images/User%20trips%20by%20Weekday%20per%20Hour.png)
+![User Trips by Weekday, per Hour](https://github.com/Caracalla1081/bikesharing/blob/2685d46b42689d29f2e2614ac3d992a562bc40cf/Images/User%20trips%20by%20Weekday%20per%20Hour.png)
 - The highest periods of utilization of the bikesharing program are during what we historically have called "rush hour"; the hours of 6am-10am and 4pm-8pm.
 - In New York City, Wednesday appears to be an outlier for weekday usage trends.
 - On Weekends Saturday sees more usage than Sundays
