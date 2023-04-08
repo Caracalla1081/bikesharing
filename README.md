@@ -3,6 +3,7 @@
 After a recent trip to New York City, I and my friend Kate returned home to Des Moines Iowa with the idea of creating a bikesharing company locally; similar to the one we were able to utilize while in New York City to see many of the sights. The purpose of this analysis is to convince a potential investor to provide us with the seed money to get our business up and running, and in order to accomplish that goal we have been asked to provide them analysis on bike trips by way of the bikesharing program in New York City; utilizing bikesharing date from August of 2019 to do so.
 
 ## Results
+[https://public.tableau.com/views/NYC_Citibike_Challenge_16809788682050/UserTripsbyWeekdaybyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
 ### Top Starting Locations
 ![Top Starting Locations](https://github.com/Caracalla1081/bikesharing/blob/352ca261bf84e4129e2651075f21d1f04e72832f/Images/Top%20Starting%20Locations.png)
 - The highest count of trip starts, by longitude and longitude, are around the mid-town, pier areas, and Uptown/Central Park areas of New York City.
