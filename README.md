@@ -40,3 +40,14 @@ After a recent trip to New York City, I and my friend Kate returned home to Des 
 - Male riders utilized the service more than female riders.
 
 ## Summary
+After completing my analysis the trends visible are that the if our bikesharing company is to be a success in Des Moines it would be dependent one on getting people to be "subscribers", and those "subscribers" would primarily be comprised of people that use the bikes for their daily commute to work.
+
+The first point, gaining "subscribers" vs. just "customers" is based on the usage datapoints provided in the "User Trips by Weekday by Gender" visual that shows a clear gap, or preference, to between those that are "subscribers" as opposed to "customers" in overall users. Gaining "subscribers" is also advantageous to our planned business because it provides us a consistent source of revenue, as opposed to the welcome, but sporadic nature of "customers".
+
+The second point of "subscribers" are primarily based comprised of people using the bikesharing service for their daily commute is supported specifically by the visuals "Top Starting Locations", "Top Ending Locations, and "User Trips by Weekday per Hour". Individually the longitude and latitude markers within the top starting and ending visuals line-up with each other, showing that most people are making round-trips when using the bikesharing service. The "User Trips per Weekday per Hour" visual shows that the highest times of utilization are primarily during "rush hour" time periods on weekdays. When the datapoints of all three visuals are analyzed for any relationships between them, it is safe to conclude that the majority of "subscribers" are using the bikesharing service as an alternative to owning a car, or ridesharing services to get to and from work.
+
+Looking at the visuals that I created to present to the potential investor, I may have created two more to analyze; given the time. 
+
+One of those visuals would be to either modify the "Top Starting Locations" and "Top Ending Locations" visuals to go by the field "Station Name", but even more I would create visual that shows the a count of trips that start and end at the same station to bolster the theory that most users are utilizing the bikesharing service for work commutes. This could either be done by a simple table/matrix, or map. 
+
+Another visual, or visuals that could be created are breakdowns of current visuals in our workspace of "usertypes" by age. This would allow us to better take into account any data available regarding age demographics of Des Moines, and allow for more efficient micro-targeting of potential customers based on usage. For instance maybe older riders are the primary "usertypes" that make up the smaller count of riders taking trips over an our or several hours; if so it could influnce a strategy to get those potential customers to utilize our bikesharing service.
