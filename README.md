@@ -4,7 +4,7 @@ After a recent trip to New York City, I and my friend Kate returned home to Des 
 
 ## Results
 ### Link to NYC Citibke Challence Dashboard
-[NYC_Citibike_Challenge](https://public.tableau.com/views/NYC_Citibike_Challenge_16809788682050/UserTripsbyWeekdaybyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[NYC_Citibike_Challenge](https://public.tableau.com/shared/JN8BC46HK?:display_count=n&:origin=viz_share_link)
 ### Top Starting Locations
 ![Top Starting Locations](https://github.com/Caracalla1081/bikesharing/blob/352ca261bf84e4129e2651075f21d1f04e72832f/Images/Top%20Starting%20Locations.png)
 - The highest count of trip starts, by longitude and longitude, are around the mid-town, pier areas, and Uptown/Central Park areas of New York City.
